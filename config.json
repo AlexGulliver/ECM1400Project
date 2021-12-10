@@ -1,0 +1,10 @@
+{
+    "API-keys": {
+    "news": "ff79428b4de54e12800b8781623ddb47",
+    "nhs": "31cc46084318ea46ebfadf39ef807406"
+    }
+    ,
+    "Configuration": {
+    "country": "gb"
+    }
+}
